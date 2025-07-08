@@ -10,4 +10,4 @@
 
 >在这些平台上，用户可以根据影片的类型或演员来挑选内容，确保快速找到符合自己口味的影片。每个视频页面都提供了详细的影片信息，如时长、出演演员以及画质等，帮助用户了解影片内容。平台还提供高清画质，并根据网络状况自动调整播放质量，以保证用户体验的顺畅。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/songsot20250708/songsot2 ）</span>
